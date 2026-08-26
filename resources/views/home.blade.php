@@ -1,15 +1,8 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+@extends('layouts.app')
 
-    <title>Karir ICBS</title>
+@section('title', 'Karir ICBS')
 
-    @vite(['resources/css/app.css', 'resources/js/app.js'])
-</head>
-
-<body>
+@section('content')
 
     @include('sections.navbar')
 
@@ -27,5 +20,4 @@
 
     @include('sections.footer')
 
-</body>
-</html>
+@endsection
