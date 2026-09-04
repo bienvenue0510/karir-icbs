@@ -13,7 +13,7 @@
                 <h1 class="text-4xl font-bold leading-tight tracking-tight text-[#17365D] sm:text-5xl lg:text-6xl">
                     Grow Your Career.
                     <span class="block text-[#F15A24]">
-                        Grow With ICBS.
+                        Grow With I C B S.
                     </span>
                 </h1>
 
